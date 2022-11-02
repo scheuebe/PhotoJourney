@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "date": "07.02.2022",
+        "features": "• Initial test of the core features"
+    },
+    {
+        "id": 2,
+        "date": "09.02.2022",
+        "features": "• Inside the 'World' tab you can now generate sample data to test all the features without any imports\n• To get all the meta data information click on item in the grid or start the slideshow"
+    },
+    {
+        "id": 3,
+        "date": "09.02.2022",
+        "features": "• bug fixes"
+    },
+    {
+        "id": 4,
+        "date": "11.02.2022",
+        "features": "• Small UI changes inside the AlbumView\n• new buggy WorldView\n• first draft of the final MeView\n• first draft of the SettingsPage"
+    },
+    {
+        "id": 5,
+        "date": "16.03.2022",
+        "features": "• fixed World Tab of all imported locations\n• possibility to change the color of the location pins in AlbumEditView"
+    },
+    {
+        "id": 6,
+        "date": "17.03.2022",
+        "features": "• Fixed WorldMapDetailView\n• Adjusted AppIcon"
+    },
+    {
+        "id": 7,
+        "date": "04.05.2022",
+        "features": "• updated colors of the app icon\n• adjusted date UI on the ‚MapWorldView’\n• improved UI of the meta data in the Slideshow"
+    },
+    {
+        "id": 8,
+        "date": "13.05.2022",
+        "features": "• fixed UI of awards in ‚Me‘ tab\n• updated draft of settings tab"
+    },
+    {
+        "id": 9,
+        "date": "18.07.2022",
+        "features": "• fixed the weather meta data detail view with updated UI\n• new experimental tab ‚ML’ to test image classification with results based sounds effects\n• smaller bug fixes"
+    },
+    {
+        "id": 10,
+        "date": "08.08.2022",
+        "features": "• optimized UI in tab ‚ML’\n• improved ‚Slideshow’ device performance\n• improved ‚Slideshow‘ UI\n• small adjustments in the ‚Album‘ section"
+    },
+    {
+        "id": 11,
+        "date": "10.08.2022",
+        "features": "• ML tab can play sounds fetched by an API\n• possibility to play and pause the sounds sounds\n• get different sounds through the brand new shuffle button"
+    },
+    {
+        "id": 12,
+        "date": "17.08.2022",
+        "features": "• Improved Slideshow with included sound API\n• Adjust the Slideshow UI with classificationResults or automatically playing sounds in the settings under ‚Slideshow Settings‘\n• Fixed sorting order of ‚AlbumView‘ to start date of the album\n• Removed ML tab since all features are transferred inside the main application"
+    },
+    {
+        "id": 13,
+        "date": "17.08.2022",
+        "features": "• Fixed sound issues in the Slideshow\n• Adjusted build version of the app"
+    },
+    {
+        "id": 14,
+        "date": "26.08.2022",
+        "features": "• Completely improved Slideshow experience with known gestures of Instagram and new settings options\n• Added new settings in ‚SettingsGeneral‘ to personalize metadata\n• Added new settings in ‚SettingsSlideshow‘"
+    },
+    {
+        "id": 15,
+        "date": "02.09.2022",
+        "features": "• NEW: Sidebar in the slideshow with quick options\n• NEW: Changelog overview in the settings footer\n• Overhaul of the whole ‚Settings’ tab\n• First working statistics in the ‚Me‘ tab"
+    },
+    {
+        "id": 16,
+        "date": "22.09.2022",
+        "features": "• Fixed UI for iPadOS and macOS\n• Fixed initial UI at the launch of the app with no albums\n• NEW hidden ’Survey Settings’ with a lot of adjustments to evaluate the app with its features"
+    },
+    {
+        "id": 17,
+        "date": "22.09.2022",
+        "features": "• Fixed Crashing while opening the ‚Settings‘ Tab\n• Changed Image Classification Model from MobileNetV2 to Resnet50"
+    }
+]

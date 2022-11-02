@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "title": "Test1",
+        "creationDate": "2022-02-07",
+        "latitude": 44.0,
+        "longitude": 44.0,
+        "mediaData": "image1"
+    },
+    {
+        "id": 2,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image2"
+    },
+    {
+        "id": 3,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image3"
+    },
+    {
+        "id": 4,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image4"
+    },
+    {
+        "id": 5,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image5"
+    },
+    {
+        "id": 6,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image6"
+    },
+    {
+        "id": 7,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image7"
+    },
+    {
+        "id": 8,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image8"
+    },
+    {
+        "id": 9,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image9"
+    },
+    {
+        "id": 10,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image10"
+    },
+    {
+        "id": 11,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image11"
+    },
+    {
+        "id": 12,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image12"
+    },
+    {
+        "id": 13,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image13"
+    },
+    {
+        "id": 14,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image14"
+    },
+    {
+        "id": 15,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image15"
+    },
+    {
+        "id": 16,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image16"
+    },
+    {
+        "id": 17,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image17"
+    },
+    {
+        "id": 18,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image18"
+    },
+    {
+        "id": 19,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image19"
+    },
+    {
+        "id": 20,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image20"
+    },
+    {
+        "id": 21,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image21"
+    },
+    {
+        "id": 22,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image22"
+    },
+    {
+        "id": 23,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image23"
+    },
+    {
+        "id": 24,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image24"
+    },
+    {
+        "id": 25,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image25"
+    },
+    {
+        "id": 26,
+        "title": "Test2",
+        "creationDate": "2022-02-12",
+        "latitude": 45.0,
+        "longitude": 45.0,
+        "mediaData": "image26"
+    }
+]
